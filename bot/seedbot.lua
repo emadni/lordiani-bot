@@ -371,7 +371,7 @@ end
 function on_secret_chat_update (schat, what)
   --vardump (schat)
 end
-
+.
 function on_get_difference_end ()
 end
 
